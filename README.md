@@ -24,5 +24,5 @@ EV Service is an e-commerce platform dedicated to selling electric car accessori
 
 ## Links
 
-- **Live Demo:** [EV SERVICE Live Demo](https://ev-service-project.vercel.app/)
+- **Live Demo:** [EV SERVICE Live Demo]()
 - **Design Mockups:** [Figma Design]()
